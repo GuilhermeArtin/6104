@@ -1,0 +1,23 @@
+EXCELENTÍSSIMO SENHOR DOUTOR JUIZ DE DIREITO DA 1ª VARA CÍVEL DA COMARCA DE JOINVILLE – ESTADO DE SANTA CATARINA.
+
+PROCESSO Nº 0301612-15.2015.8.24.0038
+
+RESIDENCIAL TRENTINO I, já devidamente qualificado nos autos de AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL em epígrafe, que move em face de MARCELO DEMEZIO CESERIO e VERONICE BAHIA CESERIO, vem respeitosamente perante Vossa Excelência, por meio de seu advogado que a esta subscreve, em atenção à intimação retro (ev. 321), apresentar MANIFESTAÇÃO nos seguintes termos.
+
+<!-- word:inicio -->
+
+Inicialmente, considerando que os valores bloqueados via SISBAJUD, de R$ 0,11 e R$ 36,91 (ev. 320), são ínfimos em relação ao débito perseguido nos presentes autos, enquadrando-se no critério de valor irrisório já adotado por este juízo (ev. 270), requer a liberação em favor dos Executados.
+
+Tendo em vista que as tentativas de bloqueio de valores nas contas dos Executados via SISBAJUD restaram infrutíferas, REQUER o prosseguimento do feito com a penhora do imóvel gerador do débito, qual seja: Rua Juliano Busarello, nº 250, apartamento 13, bloco 05, Bairro Itinga, CEP nº 89.235-350, Joinville, Santa Catarina, matrícula nº 34.724 do 3º Ofício do Registro de Imóveis da Comarca de Joinville, adquirido pelos Executados conforme matrícula acostada no ev. 1, e já indicado para penhora no ev. 115.
+
+Registra-se que a matrícula noticia alienação fiduciária em favor do Fundo de Arrendamento Residencial (FAR), representado pela Caixa Econômica Federal (R.2 da matrícula, ev. 1). Tratando-se a dívida condominial de obrigação propter rem, que acompanha o bem, a penhora pode recair sobre o imóvel gerador do débito, requerendo-se, desde já, a intimação do credor fiduciário, nos termos do art. 799, inciso I, do Código de Processo Civil.
+
+Por fim, o Exequente apresenta nova planilha de cálculo, elaborada nos termos da Ação Civil Pública nº 5033243-81.2023.8.24.0038, conforme determinado no ev. 293, demonstrando que atualmente a dívida perfaz a importância de R$ 51.639,83 (cinquenta e um mil, seiscentos e trinta e nove reais e oitenta e três centavos), conforme cálculos anexos.
+
+<!-- word:fim -->
+
+Nestes termos,
+Pede deferimento.
+Curitiba, 13 de outubro de 2026.
+PAULO ESTEVES SILVA CARNEIRO
+OAB/SC nº 47.485

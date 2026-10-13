@@ -1,0 +1,6 @@
+{"processo":"0301612-15.2015.8.24.0038","indice":"TR","ultimo_indice":[2026,9],"juros_pct":1.0,
+ "data_final":"2026-10-13","data_emissao":"2026-10-13",
+ "base":{"titulo":"taxas","arquivo":"TAXAS","data_calculo":"2026-10-13","incidencias":"condominial","csv":"taxas.csv"},
+ "vincendas":{"titulo":"VINCENDA","csv":"vincendas.csv"},
+ "custas":{"titulo":"custas","csv":"custas.csv"},
+ "descricao_parcelas":"taxas condominiais"}
