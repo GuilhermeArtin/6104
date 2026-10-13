@@ -1,0 +1,5 @@
+﻿versao;descricao;taxas_com_vincendas;vincendas_separadas;custas;indice_taxas;ultimo_mes_indice_taxas;indice_custas;total
+1;"TR para tudo; vincendas em PDF separado; indice limitado (ERRADO)";48219,26;2683,83;736,74;TR;09/2026 (limitado por mim, sem aviso);TR;51639,83
+2;vincendas no mesmo calculo (correcao do usuario);50903,09;;736,74;TR;09/2026 (limitado por mim, sem aviso);TR;51639,83
+3;custas pelo TJSC (correcao do usuario);50903,09;;1069,60;TR;09/2026 (limitado por mim, sem aviso);TJSC;51972,69
+4;TR ate 10/2026, igual ao Abacus do usuario (VIGENTE);50937,61;;1069,60;TR;10/2026;TJSC;52007,21
